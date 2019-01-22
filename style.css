@@ -1,0 +1,24 @@
+html {
+  font-family: sans-serif;
+}
+h1, h2 {
+  color: Darkgreen;
+}
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  color: Seagreen;
+}
+p {
+  font-size: 20px;
+  font-style: italic;
+  font-family: cursive;
+  font-weight: lighter;
+}
+img {
+  border-style: ridge;
+  border-color: grey;
+  border-spacing: 20px;
+}
+a {
+  color: ;rgb(110, 87, 255)
